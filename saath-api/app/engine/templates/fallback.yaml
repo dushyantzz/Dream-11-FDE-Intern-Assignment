@@ -1,0 +1,13 @@
+# Fallback commentary templates — loaded by FallbackRenderer at startup.
+# All values are slot-based strings (Rule 1): no hardcoded facts.
+# Override any key to customise the fallback experience.
+
+wicket: "{player_name} is OUT! {bowling_team} strikes at {runs}/{wickets}."
+boundary: "FOUR runs for {player_name}! {batting_team} push to {runs}/{wickets}."
+six: "MAXIMUM! {player_name} clears the ropes! Score: {runs}/{wickets} in {overs} overs."
+milestone: "{player_name} reaches a personal milestone — {fantasy_points} fantasy points."
+over_end: "After {overs} overs — {batting_team}: {runs}/{wickets}."
+innings_end: "{batting_team} finish their innings at {runs}/{wickets} in {overs} overs."
+match_start: "Welcome to {venue}! {home_team} vs {away_team} — the action begins!"
+match_end: "That's it! Final: {result_summary}."
+generic: "Live at {venue}: {batting_team} {runs}/{wickets} against {bowling_team}."

@@ -1,0 +1,296 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2026-10-06",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dallas",
+    "dates": [
+      "2026-10-03"
+    ],
+    "event": {
+      "name": "ICC Men's Cricket World Cup League 2",
+      "match_number": 127
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 5025,
+    "officials": {
+      "match_referees": [
+        "Reon King"
+      ],
+      "reserve_umpires": [
+        "DK Butler"
+      ],
+      "umpires": [
+        "Jermaine Lindo",
+        "Vijaya Mallela"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 50,
+    "players": {
+      "Namibia": [
+        "L Steenkamp",
+        "JN Frylinck",
+        "A Busing-Volschenk",
+        "MG Erasmus",
+        "JN Loftie-Eaton",
+        "ZE Green",
+        "JJ Smit",
+        "R Trumpelmann",
+        "BM Scholtz",
+        "JT Brassell",
+        "M van Lingen"
+      ],
+      "United Arab Emirates": [
+        "T Suri",
+        "Adeeb Usmani",
+        "AD Nath",
+        "Harpreet Singh",
+        "R Chopra",
+        "Aayan Afzal Khan",
+        "Shoaib Khan",
+        "Ali Naseer",
+        "Basil Hameed",
+        "Khuzaima Tanveer",
+        "Ibrar Ahmad"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Busing-Volschenk": "e9e37173",
+        "AD Nath": "f10e94c4",
+        "Aayan Afzal Khan": "d2d15439",
+        "Adeeb Usmani": "fd7d703c",
+        "Ali Naseer": "f5715b48",
+        "BM Scholtz": "e85d03d6",
+        "Basil Hameed": "adbf0400",
+        "DK Butler": "671398e3",
+        "Harpreet Singh": "28c78fb3",
+        "Ibrar Ahmad": "aa47439d",
+        "JJ Smit": "bb134e5c",
+        "JN Frylinck": "3c87f0c3",
+        "JN Loftie-Eaton": "f468293b",
+        "JT Brassell": "537021f5",
+        "Jermaine Lindo": "1154bf4f",
+        "Khuzaima Tanveer": "a3690f55",
+        "L Steenkamp": "8bd9fd13",
+        "M van Lingen": "7eb36269",
+        "MG Erasmus": "95a5e066",
+        "R Chopra": "a71d0f89",
+        "R Trumpelmann": "ff6a7ab5",
+        "Reon King": "20fbf68c",
+        "Shoaib Khan": "fdee4a01",
+        "T Suri": "a76d4082",
+        "Vijaya Mallela": "85b6244a",
+        "ZE Green": "8716233e"
+      },
+      "venues": {
+        "Grand Prairie Stadium, Dallas": "aeb7f2e0"
+      }
+    },
+    "season": "2026/27",
+    "team_type": "international",
+    "teams": [
+      "Namibia",
+      "United Arab Emirates"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United Arab Emirates"
+    },
+    "venue": "Grand Prairie Stadium, Dallas"
+  },
+  "innings": [
+    {
+      "team": "Namibia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "L Steenkamp",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "L Steenkamp",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "JN Frylinck",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "JN Frylinck",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "JN Frylinck",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "JN Frylinck",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "JN Frylinck",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "JN Frylinck",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "JN Frylinck",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JN Frylinck",
+              "bowler": "Ibrar Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "JN Frylinck",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "JN Frylinck",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "L Steenkamp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "L Steenkamp",
+              "bowler": "Ibrar Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "L Steenkamp",
+              "bowler": "Ibrar Ahmad",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "JN Frylinck",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.8,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

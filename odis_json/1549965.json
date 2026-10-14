@@ -1,0 +1,6539 @@
+{
+  "meta": {
+    "data_version": "1.2.0",
+    "created": "2026-09-09",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangi",
+    "dates": [
+      "2026-09-08"
+    ],
+    "event": {
+      "name": "ACC Men's Premier Cup",
+      "match_number": 20,
+      "group": "B"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 5007,
+    "officials": {
+      "match_referees": [
+        "Ali Naqvi"
+      ],
+      "reserve_umpires": [
+        "Tabarak Dar"
+      ],
+      "umpires": [
+        "DN Subedi",
+        "V Kalidas"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "runs": 49
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Aayan Afzal Khan"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "T Suri",
+        "Adeeb Usmani",
+        "Harpreet Singh",
+        "AD Nath",
+        "R Chopra",
+        "Shoaib Khan",
+        "Aayan Afzal Khan",
+        "Khuzaima Tanveer",
+        "Ibrar Ahmad",
+        "Haider Ali",
+        "Muhammad Jawadullah"
+      ],
+      "Oman": [
+        "Jatinder Singh",
+        "K Sonavale",
+        "Mujibur Ali",
+        "Jay Odedra",
+        "Hammad Mirza",
+        "J Ramanandi",
+        "V Shukla",
+        "Shakeel Ahmed",
+        "S Sajeev",
+        "Nadeem Khan",
+        "Hassnain Shah"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Nath": "f10e94c4",
+        "Aayan Afzal Khan": "d2d15439",
+        "Adeeb Usmani": "fd7d703c",
+        "Ali Naqvi": "3c89fc88",
+        "DN Subedi": "fb0a571f",
+        "Haider Ali": "dd572696",
+        "Hammad Mirza": "0b7b78c6",
+        "Harpreet Singh": "28c78fb3",
+        "Hassnain Shah": "7cb931fc",
+        "Ibrar Ahmad": "aa47439d",
+        "J Ramanandi": "f7ce2ff9",
+        "Jatinder Singh": "b80dd12c",
+        "Jay Odedra": "526e006d",
+        "K Sonavale": "10c158cc",
+        "Khuzaima Tanveer": "a3690f55",
+        "Muhammad Jawadullah": "098a757c",
+        "Mujibur Ali": "e88468b7",
+        "Nadeem Khan": "8a28c5d4",
+        "R Chopra": "a71d0f89",
+        "S Sajeev": "071ce010",
+        "Shakeel Ahmed": "e29e9c12",
+        "Shoaib Khan": "fdee4a01",
+        "T Suri": "a76d4082",
+        "Tabarak Dar": "2259c12d",
+        "V Kalidas": "42d76418",
+        "V Shukla": "101b1180"
+      }
+    },
+    "season": "2026",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "Oman"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Oman"
+    },
+    "venue": "YSD-UKM Cricket Oval, Bangi"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "T Suri",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "T Suri",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "T Suri",
+              "bowler": "J Ramanandi",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "J Ramanandi",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Mujibur Ali",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Mujibur Ali",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Mujibur Ali",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "T Suri",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "Adeeb Usmani",
+              "bowler": "Mujibur Ali",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Mujibur Ali",
+              "non_striker": "T Suri",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "T Suri",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Suri",
+                  "fielders": [
+                    {
+                      "name": "Mujibur Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "Harpreet Singh",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "Harpreet Singh",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "Harpreet Singh",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "Harpreet Singh",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "Harpreet Singh",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "Harpreet Singh",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "Adeeb Usmani",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Adeeb Usmani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "Adeeb Usmani",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "Adeeb Usmani",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Adeeb Usmani",
+                  "fielders": [
+                    {
+                      "name": "Nadeem Khan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "Harpreet Singh",
+              "bowler": "Hassnain Shah",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "Harpreet Singh",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Harpreet Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "Harpreet Singh",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "Harpreet Singh",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Harpreet Singh",
+                  "fielders": [
+                    {
+                      "name": "Mujibur Ali"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "R Chopra",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "R Chopra",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "R Chopra",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "R Chopra",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "R Chopra",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "R Chopra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "R Chopra",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "R Chopra",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Chopra",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "Shoaib Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "Shoaib Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "Shoaib Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Shoaib Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "Shoaib Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "Shoaib Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "Shoaib Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shoaib Khan",
+                  "fielders": [
+                    {
+                      "name": "Hammad Mirza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "AD Nath",
+              "bowler": "Jay Odedra",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Jay Odedra",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "AD Nath",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "AD Nath",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "actual_delivery": "35.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Hassnain Shah",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Hassnain Shah",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Hassnain Shah",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "35.4",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.5",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "35.6",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "actual_delivery": "36.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.2",
+              "batter": "AD Nath",
+              "bowler": "Nadeem Khan",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "36.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "36.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Nadeem Khan",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "actual_delivery": "37.1",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.2",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.3",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "37.4",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "37.5",
+              "batter": "AD Nath",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Hassnain Shah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "37.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Hassnain Shah",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "actual_delivery": "38.1",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.2",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.3",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "38.4",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "38.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "38.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "actual_delivery": "39.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "J Ramanandi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "J Ramanandi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "39.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "J Ramanandi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "J Ramanandi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "39.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "J Ramanandi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "39.6",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "J Ramanandi",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "actual_delivery": "40.1",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.3",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "40.5",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "40.6",
+              "batter": "AD Nath",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "actual_delivery": "41.1",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.2",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.3",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.4",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "AD Nath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "41.5",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "41.6",
+              "batter": "AD Nath",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Aayan Afzal Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AD Nath",
+                  "fielders": [
+                    {
+                      "name": "Hassnain Shah"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "actual_delivery": "42.1",
+              "batter": "Aayan Afzal Khan",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aayan Afzal Khan",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "42.2",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.3",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.4",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "42.5",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "42.6",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "actual_delivery": "43.1",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.2",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.3",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Shakeel Ahmed",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.3",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "43.4",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.5",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "43.6",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Shakeel Ahmed",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "actual_delivery": "44.1",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.2",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.3",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.4",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "44.5",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "44.6",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Mujibur Ali",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "actual_delivery": "45.1",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.2",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.3",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Ibrar Ahmad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "45.4",
+              "batter": "Ibrar Ahmad",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ibrar Ahmad",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "45.5",
+              "batter": "Haider Ali",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "45.6",
+              "batter": "Haider Ali",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Khuzaima Tanveer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "actual_delivery": "46.1",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Jay Odedra",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.2",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Jay Odedra",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "46.3",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Jay Odedra",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "46.4",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Jay Odedra",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.5",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Jay Odedra",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "46.6",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Jay Odedra",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "actual_delivery": "47.1",
+              "batter": "Khuzaima Tanveer",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Khuzaima Tanveer",
+                  "fielders": [
+                    {
+                      "name": "V Shukla"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "47.2",
+              "batter": "Muhammad Jawadullah",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.3",
+              "batter": "Haider Ali",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Muhammad Jawadullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.4",
+              "batter": "Haider Ali",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Muhammad Jawadullah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.5",
+              "batter": "Muhammad Jawadullah",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "47.6",
+              "batter": "Muhammad Jawadullah",
+              "bowler": "Hassnain Shah",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "47.6",
+              "batter": "Muhammad Jawadullah",
+              "bowler": "Hassnain Shah",
+              "non_striker": "Haider Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "actual_delivery": "48.1",
+              "batter": "Haider Ali",
+              "bowler": "Jay Odedra",
+              "non_striker": "Muhammad Jawadullah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Haider Ali",
+                  "fielders": [
+                    {
+                      "name": "J Ramanandi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 48.1,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Oman",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "actual_delivery": "0.1",
+              "batter": "Jatinder Singh",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "K Sonavale",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "0.2",
+              "batter": "K Sonavale",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.3",
+              "batter": "K Sonavale",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "0.4",
+              "batter": "K Sonavale",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "0.5",
+              "batter": "K Sonavale",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Sonavale",
+                  "fielders": [
+                    {
+                      "name": "Harpreet Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "0.6",
+              "batter": "Mujibur Ali",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "actual_delivery": "1.1",
+              "batter": "Jatinder Singh",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.2",
+              "batter": "Jatinder Singh",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.3",
+              "batter": "Jatinder Singh",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.4",
+              "batter": "Jatinder Singh",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "1.5",
+              "batter": "Jatinder Singh",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "1.6",
+              "batter": "Mujibur Ali",
+              "bowler": "Ibrar Ahmad",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Jatinder Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "actual_delivery": "2.1",
+              "batter": "Jatinder Singh",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jatinder Singh",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "2.2",
+              "batter": "Jay Odedra",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.3",
+              "batter": "Jay Odedra",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.4",
+              "batter": "Jay Odedra",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.5",
+              "batter": "Jay Odedra",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "2.6",
+              "batter": "Jay Odedra",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Mujibur Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Jay Odedra",
+                  "fielders": [
+                    {
+                      "name": "Adeeb Usmani"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "actual_delivery": "3.1",
+              "batter": "Mujibur Ali",
+              "bowler": "Ibrar Ahmad",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "3.1",
+              "batter": "Mujibur Ali",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Mujibur Ali",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "3.2",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.3",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.4",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "3.5",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "3.6",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "actual_delivery": "4.1",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "4.4",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.5",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "4.6",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "actual_delivery": "5.1",
+              "batter": "Hammad Mirza",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.4",
+              "batter": "Hammad Mirza",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "5.5",
+              "batter": "Hammad Mirza",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "actual_delivery": "5.6",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "actual_delivery": "6.1",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "6.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.4",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.5",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "6.6",
+              "batter": "Hammad Mirza",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "actual_delivery": "7.1",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.2",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "7.4",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "7.5",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "7.6",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "actual_delivery": "8.1",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.4",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "8.5",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "8.6",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "actual_delivery": "9.1",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "9.2",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.3",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.4",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.5",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "9.6",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "actual_delivery": "10.1",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.3",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "10.4",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.5",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "10.6",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "actual_delivery": "11.1",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.2",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.3",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "11.4",
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.5",
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "11.6",
+              "batter": "Hammad Mirza",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "actual_delivery": "12.1",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.2",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "actual_delivery": "12.3",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Hammad Mirza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "12.4",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.5",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "12.6",
+              "batter": "Hammad Mirza",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hammad Mirza",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "actual_delivery": "13.1",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.2",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.3",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.4",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.5",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "13.6",
+              "batter": "J Ramanandi",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "actual_delivery": "14.1",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.2",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.3",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.4",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "14.5",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "14.6",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "actual_delivery": "15.1",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.2",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.3",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.4",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.5",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "15.6",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "actual_delivery": "16.1",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.2",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.3",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.4",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.5",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "16.6",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "actual_delivery": "17.1",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.2",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.3",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "17.4",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.5",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "17.6",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "actual_delivery": "18.1",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.2",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "18.3",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "18.4",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "18.5",
+              "batter": "J Ramanandi",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "18.6",
+              "batter": "V Shukla",
+              "bowler": "Ibrar Ahmad",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "actual_delivery": "19.1",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "19.2",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.3",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "19.4",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "19.5",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "19.6",
+              "batter": "V Shukla",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "actual_delivery": "20.1",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.2",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "20.3",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "V Shukla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "20.4",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "20.5",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "20.6",
+              "batter": "V Shukla",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Shukla",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "actual_delivery": "21.1",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.2",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.4",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "21.5",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "21.6",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "actual_delivery": "22.1",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.2",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.3",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.4",
+              "batter": "J Ramanandi",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "22.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "22.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "actual_delivery": "23.1",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.2",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.3",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.4",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "23.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "23.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "actual_delivery": "24.1",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.2",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.3",
+              "batter": "J Ramanandi",
+              "bowler": "Haider Ali",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "24.4",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "24.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Haider Ali",
+              "non_striker": "J Ramanandi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "actual_delivery": "25.1",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.2",
+              "batter": "J Ramanandi",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Ramanandi",
+                  "fielders": [
+                    {
+                      "name": "Harpreet Singh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "actual_delivery": "25.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "25.4",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.5",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "25.6",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "actual_delivery": "26.1",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.2",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Haider Ali",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Haider Ali",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.4",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "26.5",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "26.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Haider Ali",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "actual_delivery": "27.1",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.2",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "27.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.4",
+              "batter": "S Sajeev",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "27.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "27.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Adeeb Usmani",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "actual_delivery": "28.1",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.2",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.3",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.4",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "28.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "28.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "actual_delivery": "29.1",
+              "batter": "S Sajeev",
+              "bowler": "Muhammad Jawadullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.1",
+              "batter": "S Sajeev",
+              "bowler": "Muhammad Jawadullah",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.2",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "29.4",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "29.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "actual_delivery": "30.1",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.2",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.4",
+              "batter": "S Sajeev",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "30.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "30.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Khuzaima Tanveer",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "actual_delivery": "31.1",
+              "batter": "S Sajeev",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.2",
+              "batter": "S Sajeev",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "31.4",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.5",
+              "batter": "S Sajeev",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "31.6",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Muhammad Jawadullah",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "actual_delivery": "32.1",
+              "batter": "S Sajeev",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.2",
+              "batter": "S Sajeev",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "Shakeel Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "actual_delivery": "32.3",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.4",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "32.5",
+              "batter": "Shakeel Ahmed",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shakeel Ahmed",
+                  "fielders": [
+                    {
+                      "name": "Ibrar Ahmad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "actual_delivery": "32.6",
+              "batter": "Nadeem Khan",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Nadeem Khan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "actual_delivery": "33.1",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.2",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.3",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.4",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.5",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "33.6",
+              "batter": "S Sajeev",
+              "bowler": "Haider Ali",
+              "non_striker": "Hassnain Shah",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "actual_delivery": "34.1",
+              "batter": "Hassnain Shah",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.2",
+              "batter": "Hassnain Shah",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.3",
+              "batter": "Hassnain Shah",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "actual_delivery": "34.4",
+              "batter": "Hassnain Shah",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "actual_delivery": "34.5",
+              "batter": "Hassnain Shah",
+              "bowler": "Aayan Afzal Khan",
+              "non_striker": "S Sajeev",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Hassnain Shah",
+                  "fielders": [
+                    {
+                      "name": "Khuzaima Tanveer"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 34.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 193
+      }
+    }
+  ]
+}
