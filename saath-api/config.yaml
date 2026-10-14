@@ -68,6 +68,18 @@ user_context:
 engine:
   fallback_template_path: "app/engine/templates/fallback.yaml"
   max_retry_attempts: 1        # LLM retries before falling back
+  winprob_model_path: "app/engine/models/winprob_v1.joblib"
+  moment_weights:
+    swing: 0.40
+    wicket: 0.20
+    six: 0.12
+    four: 0.06
+    fifty: 0.10
+    hundred: 0.15
+    partnership_milestone: 0.08
+    three_wickets_in_three_overs: 0.12
+    hat_trick_ball: 0.15
+    tight_finish: 0.12
 
 # ---------------------------------------------------------------------------
 # Logging

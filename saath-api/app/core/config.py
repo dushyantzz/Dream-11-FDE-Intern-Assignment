@@ -69,9 +69,24 @@ class UserContextSettings(BaseModel):
     timeout_s: float = Field(default=2.0, gt=0)
 
 
+class MomentWeightsSettings(BaseModel):
+    swing: float = Field(default=0.40, ge=0.0)
+    wicket: float = Field(default=0.20, ge=0.0)
+    six: float = Field(default=0.12, ge=0.0)
+    four: float = Field(default=0.06, ge=0.0)
+    fifty: float = Field(default=0.10, ge=0.0)
+    hundred: float = Field(default=0.15, ge=0.0)
+    partnership_milestone: float = Field(default=0.08, ge=0.0)
+    three_wickets_in_three_overs: float = Field(default=0.12, ge=0.0)
+    hat_trick_ball: float = Field(default=0.15, ge=0.0)
+    tight_finish: float = Field(default=0.12, ge=0.0)
+
+
 class EngineSettings(BaseModel):
     fallback_template_path: str = "app/engine/templates/fallback.yaml"
     max_retry_attempts: int = Field(default=1, ge=0)
+    winprob_model_path: str = "app/engine/models/winprob_v1.joblib"
+    moment_weights: MomentWeightsSettings = Field(default_factory=MomentWeightsSettings)
 
 
 class LoggingSettings(BaseModel):
